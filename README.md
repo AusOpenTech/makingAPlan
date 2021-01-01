@@ -64,7 +64,7 @@ Please add your ideas for better coordination and communication to the [communic
 We are the people who know how to build things.  
 
 I know of lots of Australians - both inside and outside government - building valuable technology that supports Australian democracy.  [Michelle Blom’s election auditing software](https://github.com/michelleblom), specifically designed for Australian-style preferential elections, has been used in San Francisco but not (yet) here.  Australian open-source implementations of [STV](https://github.com/siliconeconometrics/publicservice) [counting](https://github.com/grahame/dividebatur) software could be used immediately instead of the often-secret, often-foreign code many of our electoral commissions use. 
-Flux’s has a terrific [sub-project on encoding legislation](https://github.com/OpenGovAus/Aus-Bills).
+Flux has a terrific [sub-project on encoding legislation](https://github.com/OpenGovAus/Aus-Bills).
 
 So many other good things have been, are being, or could be built by the open source community without needing official endorsement.
 
@@ -76,7 +76,7 @@ Nothing about COVIDSafe surprises me except the active involvement of a wonderfu
 
 I do not have a complete solution, but I hope this site can become a forum for focusing discussion on a better way our country can build public-sector technology.
 
-> that whenever people feel anger, they no longer turn their anger into helplessness, but rather into social outrage, which is an impulse for co-creation, and so my main suggestion is not to take this personal[ly], but take it social.
+> ... that whenever people feel anger, they no longer turn their anger into helplessness, but rather into social outrage, which is an impulse for co-creation, and so my main suggestion is not to take this personal[ly], but take it social.
 
 --- [Audrey Tang](https://twitter.com/audreyt/status/1309396582081544192)
 
