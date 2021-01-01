@@ -79,3 +79,11 @@ I do not have a complete solution, but I hope this site can become a forum for f
 > that whenever people feel anger, they no longer turn their anger into helplessness, but rather into social outrage, which is an impulse for co-creation, and so my main suggestion is not to take this personal[ly], but take it social.
 
 --- [Audrey Tang](https://twitter.com/audreyt/status/1309396582081544192)
+
+## License
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
