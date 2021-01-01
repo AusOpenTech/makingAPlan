@@ -34,7 +34,7 @@ In Switzerland, when we discovered [a serious cryptographic problem in their e-v
 
 In Taiwan, the technologists who started the Sunflower movement were invited in to government.
 
-The community that has grown up around the public examination of COVIDSafe can be a catalyst for better technology policy and practice across Australia’s public sector.  I am delighted that a community of geeks is suddenly outraged by the things that I had given up hope of changing.  After years of wondering why nobody else seemed to care, a whole community of people want change. 
+The community that has grown up around the public examination of COVIDSafe can be a catalyst for better technology policy and practice across Australia’s public sector.  I am delighted that a community of geeks is suddenly outraged by the things that I had given up hope of changing.  After years of wondering why nobody else seemed to care, a whole community of people want change. Please write your best ideas for government tech change into the [government technology discussion](https://github.com/orgs/AusOpenTech/teams/discuss/discussions/1).
 
 First, my most-urgent legislative change.
 
@@ -44,7 +44,7 @@ We can see COVIDSafe’s app code and identify mistakes.  We can download the my
 
 I believe the highest priority for technically-informed legislative change is to mandate an audit of the digitised preferences against the paper Senate ballots.
 
-Please add your preferred priorities to the Discussion-legislation/politics tab here. 
+Please add your preferred priorities to the [legislation/politics](https://github.com/orgs/AusOpenTech/teams/discuss/discussions/2) discussion. 
 
 ## Communication: first, people have to care
 
@@ -56,7 +56,7 @@ Digital Rights Watch, Electronic Frontiers Australia and AccessNow all do a wond
 
 However, I think we made a mistake by working only through the official “consultation” process on issues such as TOLA, the anti-encryption legislation passed in 2018, and the various followups that undermine Australian security and privacy further.  We need to think about how to make technically-literate protest visible and appealing to non-geeks. What would a security-and-privacy version of the climate protests or black lives matter protests look like? Who would join us? How would we invite them in? Conversely, what technology would support democratic expression on those other issues?
 
-Please add your ideas for better coordination and communication to the Discussion – communication tab.
+Please add your ideas for better coordination and communication to the [communication discussion](https://github.com/orgs/AusOpenTech/teams/discuss/discussions/3).
 
 ## Outside-government public technology 
 
@@ -67,7 +67,7 @@ Flux’s has a terrific [sub-project on encoding legislation](https://github.com
 
 So many other good things have been, are being, or could be built by the open source community without needing official endorsement.
 
-Please add your ideas (or existing projects) to the Discussion – outside government technology tab.
+Please add your ideas (or existing projects) to the [outside government technology discussion](https://github.com/orgs/AusOpenTech/teams/discuss/discussions/4).
 
 ## It doesn’t have to be this way
 
