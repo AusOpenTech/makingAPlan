@@ -1,4 +1,5 @@
 # Australian digital transformation without the Authority
+Vanessa Teague, 1 Jan 2021   
 
 It has been another disappointing year for the Australian tech community, and I feel that we need a new strategy.   
 
