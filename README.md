@@ -75,7 +75,6 @@ Nothing about COVIDSafe surprises me except the active involvement of a wonderfu
 
 I do not have a complete solution, but I hope this site can become a forum for focusing discussion on a better way our country can build public-sector technology.
 
-```
-that whenever people feel anger, they no longer turn their anger into helplessness, but rather into social outrage, which is an impulse for co-creation, and so my main suggestion is not to take this personal[ly], but take it social.
-```
+> that whenever people feel anger, they no longer turn their anger into helplessness, but rather into social outrage, which is an impulse for co-creation, and so my main suggestion is not to take this personal[ly], but take it social.
+
 --- [Audrey Tang](https://twitter.com/audreyt/status/1309396582081544192)
