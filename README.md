@@ -5,11 +5,14 @@ It has been another disappointing year for the Australian tech community, and I 
 
 Taiwan’s Sunflower movement opened in 2014 when the pro-unification Kuomintang Party signed a secret “Service and Trade agreement” with the Chinese Communist Party, and a group of Taiwanese students and technologists stormed the parliament and stopped them ratifying it.  Since then, it has developed into a wonderful [example of how democracy and technology fit together](https://g0v.tw/manifesto/en/). They build software that strengthens their democracy, improves human rights, and actively involves citizens in decisions so they can [“live democracy day by day.”](https://twitter.com/audreyt/status/1309396603652902912?s=20) 
 
+**Added note, given the appalling situation in the US today (Jan 7) - I am absolutely not advocating literally storming the Parliament or otherwise undermining democracy.  This is about using technology to enhance and protect Australia's democracy.**
+
 Here in Australia, the complete exclusion of Australians with technical knowledge from decision-making and development of public technology is so normalised that the minister in charge of digital transformation can get away with describing as a “sovereign Australian app” a system that was ported from Singaporean code, improved with some tricks from the UK, uses completely secret server-side algorithms probably from the Boston Consulting Group, stores detailed information about Australians on the Amazon cloud, and didn’t work when Australians needed it.
 
 I do not have a complete plan for turning things around, but this situation has to change, and those of us who understand technology are the ones who have to change it. 
 
 Inspired by Taiwan’s Sunflower movement, I want to start thinking about how we could get an Australian knock-off started. This essay is an opinionated list of my preferred priorities, biased towards the projects I already know and care about – please join the discussion and add your own alternatives and plans.
+
 
 ## COVIDSafe is bad, but it’s not unusual
 
