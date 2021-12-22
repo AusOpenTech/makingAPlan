@@ -3,9 +3,9 @@ Vanessa Teague, 1 Jan 2021
 
 It has been another disappointing year for the Australian tech community, and I feel that we need a new strategy.   
 
-Taiwan’s Sunflower movement opened in 2014 when the pro-unification Kuomintang Party signed a secret “Service and Trade agreement” with the Chinese Communist Party, and a group of Taiwanese students and technologists stormed the parliament and stopped them ratifying it.  Since then, it has developed into a wonderful [example of how democracy and technology fit together](https://g0v.tw/manifesto/en/). They build software that strengthens their democracy, improves human rights, and actively involves citizens in decisions so they can [“live democracy day by day.”](https://twitter.com/audreyt/status/1309396603652902912?s=20) 
+Taiwan’s Sunflower movement opened in 2014 when the pro-unification Kuomintang Party signed a secret “Service and Trade agreement” with the Chinese Communist Party, and a group of Taiwanese students and technologists conducted a nonviolent walk-in, occupied the parliament and talked them out of ratifying it.  Since then, it has developed into a wonderful [example of how democracy and technology fit together](https://g0v.tw/manifesto/en/). They build software that strengthens their democracy, improves human rights, and actively involves citizens in decisions so they can [“live democracy day by day.”](https://twitter.com/audreyt/status/1309396603652902912?s=20) 
 
-**Added note, given the appalling situation in the US today (Jan 7) - I am absolutely not advocating literally storming the Parliament or otherwise undermining democracy.  This is about using technology to enhance and protect Australia's democracy.**
+**Added note, given the appalling situation in the US today (Jan 7) - I am absolutely not advocating literally or physically taking over the Parliament or otherwise undermining democracy.  This is about using technology to enhance and protect Australia's democracy.**
 
 Here in Australia, the complete exclusion of Australians with technical knowledge from decision-making and development of public technology is so normalised that the minister in charge of digital transformation can get away with describing as a “sovereign Australian app” a system that was ported from Singaporean code, improved with some tricks from the UK, uses completely secret server-side algorithms probably from the Boston Consulting Group, stores detailed information about Australians on the Amazon cloud, and didn’t work when Australians needed it.
 
@@ -44,9 +44,13 @@ First, my most-urgent legislative change.
 
 ## Legislation/politics: democracy is the thing we must not sacrifice
 
-We can [see COVIDSafe’s app code](https://github.com/AU-CovidSafe/) and identify mistakes.  We can download the [myGovID app](https://www.mygovid.gov.au/) and examine its behaviour.  But years of effort by democracy activists and [even a Senate motion](https://www.smh.com.au/technology/government-rejects-senate-order-to-disclose-electoral-commission-software-code-20140716-zti03.html) have failed to bring any details about the Senate scanning and counting code to light.  Before you say, “Never mind, that code only chooses our Senators, why should I care about its security or correctness?” consider that (as far as I can tell) it is supplied entirely by foreign companies, Fuji-Xerox and [Scytl](https://www.tenders.gov.au/Cn/Show/471f2731-fa2f-e235-5e5d-91fb7b9a53c1), and (as far as I know) has never had any independent review by anyone with any knowledge of election verification.
+We can [see COVIDSafe’s app code](https://github.com/AU-CovidSafe/) and identify mistakes.  We can download the [myGovID app](https://www.mygovid.gov.au/) and examine its behaviour.  But years of effort by democracy activists and [even a Senate motion](https://www.smh.com.au/technology/government-rejects-senate-order-to-disclose-electoral-commission-software-code-20140716-zti03.html) have failed to bring any details about the Senate scanning and counting code to light.    
 
-I believe the highest priority for technically-informed legislative change is to mandate an audit of the digitised preferences against the paper Senate ballots.
+**Update, December 2021: the Australian Parliament recently passed bill mandating  an audit of the digitised preferences against the paper Senate ballots.**
+
+[The bill is here](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r6810) and it will improve the real and perceived security of Australian elections by ensuring that scrutineers can see evidence that Senate ballots are accurately digitized. More details at [EFA](https://www.efa.org.au/2021/11/23/the-senate-assurance-bill-plugs-a-critical-gap-in-australian-election-security/).
+
+So improvements are possible - think of the next one we need.
 
 Please add your preferred priorities to the [legislation/politics discussion](https://github.com/AusOpenTech/makingAPlan/issues/2). 
 
